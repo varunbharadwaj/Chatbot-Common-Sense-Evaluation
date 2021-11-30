@@ -16,7 +16,7 @@ neg_conv_list = []
 dialogue_sep_token = " __eou__ "
 topical_sep_token = "__eou__"
 
-data_path = 'dialogues.txt'
+data_path = 'dataset/daily_dialogue.txt'
 
 with open(data_path,"r") as f:
     daily_dialog_list = f.readlines()
@@ -29,7 +29,7 @@ with open(data_path,"r") as f:
       tup = (arr_line[0], arr_line[1])
       pos_conv_list.append(tup)
 
-data_path = 'topical_chat_pairs.txt'
+data_path = 'dataset/topical_chat_pairs.txt'
 
 with open(data_path,"r") as f:
     topical_chat_list = f.readlines()
@@ -42,7 +42,7 @@ with open(data_path,"r") as f:
       tup = (arr_line[0], arr_line[1])
       pos_conv_list.append(tup)
 
-data_path = 'non_common_sense_dataset.txt'
+data_path = 'results/generated_dataset/negative_samples/non_common_sense_dataset.txt'
 
 with open(data_path,"r") as f:
     neg_sense_list = f.readlines()
