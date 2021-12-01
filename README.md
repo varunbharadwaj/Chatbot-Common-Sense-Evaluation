@@ -1,7 +1,7 @@
 # Chatbot-Common-Sense-Evaluation
 Evaluating the Sensibility of Generated Responses by using existing Common Sense Knowledge Graphs
 
-<h1>Local Setup</h1>
+<h3>Local Setup</h3>
 1. This app uses COMET. Download COMET files into the current directory and follow the setup instructions provided.<br>
     https://github.com/atcbosselut/comet-commonsense <br>
 2. To run experiments with DiSCoL, follow the steps to start the discol server and update the URL in discol_dataset_generation.py.<br>
