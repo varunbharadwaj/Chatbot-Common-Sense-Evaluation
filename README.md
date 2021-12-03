@@ -7,6 +7,6 @@ Evaluating the Sensibility of Generated Responses by using existing Common Sense
 2. To run experiments with DiSCoL, follow the steps to start the discol server and update the URL in discol_dataset_generation.py.<br>
     https://github.com/PlusLabNLP/Dialogue_System_Hackathon <br><br>
 
-Pre-trained model can be downloaded at: https://drive.google.com/file/d/1c2DjTo__6UQSbo0WLE4KAqVSUPYL5bgn/view?usp=sharing
+Pre-trained model can be downloaded at: https://drive.google.com/file/d/1PtWQbYJfkZPI_Uql94ALM0HRF2J2CXX5/view?usp=sharing
 
 [url1]: https://github.com/atcbosselut/comet-commonsense
