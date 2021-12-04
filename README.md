@@ -8,5 +8,7 @@ Evaluating the Sensibility of Generated Responses by using existing Common Sense
     https://github.com/PlusLabNLP/Dialogue_System_Hackathon <br><br>
 
 Pre-trained model can be downloaded at: https://drive.google.com/file/d/1PtWQbYJfkZPI_Uql94ALM0HRF2J2CXX5/view?usp=sharing
+<br>
+Generated non-commonsense samples can be found under results.
 
 [url1]: https://github.com/atcbosselut/comet-commonsense
